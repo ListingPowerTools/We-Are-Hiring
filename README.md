@@ -1,6 +1,6 @@
 # We Are Hiring!
 **We are actively looking to add talented engineers to our team**, which is why we made this repo! If you have a passion for software development, real estate tech, and like to play with large datasets, reach out by sending us your GitHub and/or resume. To break the email ice, mention you found this on GitHub. We enjoy working in GitHub which means we already have something in common to talk about. If you have any questions, feel free to submit a pull request. 
-About Us
+
 
 ## “The Dojo”
 We are a fully funded real estate tech start-up company based in Lake Mary, Florida. The size of the company has grown to over 50 employees in the last year, and we are still growing! The broad landscape of technologies in our operations arsenal extend from digital to print. Our company culture has been shaped by the success of our hard work.
@@ -19,7 +19,7 @@ Our *CEO Robert Palmer* is a seasoned software engineer who built the internal s
 **This role is reserved for Wizards** Wizards make sense of data and allow us to see into the future. If you perform Bayesian statistics on everyday situations to provide predictability to your life—we want you on the team! You will use your wizard skills to find the association strength between categorical, continuous variables and use statistical analysis to predict the future outcome of events. 
 
 
-## "Battle Gear" 
+## Battle Gear 
 Our technology stack consists the following :
 - Node.js / NPM
 - Angular.js / Bower
@@ -45,9 +45,5 @@ You read that right—we offer complimentary car cleaning services on Tuesdays, 
 ### Snack Pantry 
 Our snack pantry is filled with healthy snacks such as beef jerky, granola bars, and fresh fruit. If that doesn’t tempt your taste buds there are also sweet treats like cookies, candy and chips!
 
-
-
 <hr>
-#### Send resume to : 
-My Email : milos.bejda@listingpowertools.com
-
+*Send Email To* : milos.bejda@listingpowertools.com
