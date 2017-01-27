@@ -46,4 +46,4 @@ You read that right—we offer complimentary car cleaning services on Tuesdays, 
 Our snack pantry is filled with healthy snacks such as beef jerky, granola bars, and fresh fruit. If that doesn’t tempt your taste buds there are also sweet treats like cookies, candy and chips!
 
 <hr>
-*Send Email To* : milos.bejda@listingpowertools.com
+*Email Resume To* : milos.bejda@listingpowertools.com
