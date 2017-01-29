@@ -1,4 +1,7 @@
 # We Are Hiring!
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8a44c5a510b9450593445eed9b4aac68)](https://www.codacy.com/app/not-milos-bejda/We-Are-Hiring?utm_source=github.com&utm_medium=referral&utm_content=ListingPowerTools/We-Are-Hiring&utm_campaign=badger)
+
 **We are actively looking to add talented engineers to our team**, which is why we made this repo! If you have a passion for software development, real estate tech, and like to play with large datasets, reach out by sending us your GitHub and/or resume. To break the email ice, mention you found this on GitHub. We enjoy working in GitHub which means we already have something in common to talk about. If you have any questions, feel free to submit a pull request. 
 
 
